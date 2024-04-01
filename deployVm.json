@@ -11,7 +11,7 @@
     "parameters": {
       "vmName": {
         "type": "string",
-        "defaultValue": "simpleLinuxVM",
+        "defaultValue": "Levi",
         "metadata": {
           "description": "The name of your Virtual Machine."
         }
